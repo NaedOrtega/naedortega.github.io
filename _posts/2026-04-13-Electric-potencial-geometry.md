@@ -6,3 +6,5 @@ date: 2026-04-13
 
 This is a animation made in Wolfram Mathematica, of a certain geometry of conductor plates, and another plate at a certain potencial.
 This problem has a solutión with the metod of partial diferencial ecuations name, separatión of variables. 
+
+<img src="files/animacion.gif" alt="Descripción del gif" width="400">
