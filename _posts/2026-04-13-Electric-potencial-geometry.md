@@ -8,8 +8,8 @@ This is the electric potencial of a certain geometry; expoced in Example 3.5 in 
 This problem has a solution with the metod of partial diferencial ecuations called, separation of variables. 
 
 <p align="center">
-  <img src="/files/animacion.gif" width="300">
-  <img src="/files/animacion2d.gif" width="300">
+  <img src="/files/animacion.gif" width="450">
+  <img src="/files/animacion2d.gif" width="450">
 </p>
 
 The animation is made in Wolfram Mathematica, you can download the code I made to animete this solution, here: <a href="/files/Griffiths_Example_3.5.nb" target="_blank">Griffiths_Example_3.5</a>
