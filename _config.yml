@@ -15,7 +15,7 @@ name                     : &name "Fernando Naed Ortega Montero"
 description              : &description "Undergraduate Physics Student (4th Semester), UNAM, Electromagnetism enjoyer, Particles Physics enjoyer."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://naedortega.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NaedOrtega/NaedOrtega.github.io"
+repository               : "NaedOrtega/naedortega.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
