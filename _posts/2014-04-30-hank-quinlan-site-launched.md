@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Electric potencial of a certain geometry."
-date: 2014-04-30
+date: 2026-04-13
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This is a animation made in Wolfram Mathematica, of a certain geometry of conductor plates, and another plate at a certain potencial.
+This problem has a solutión with the metod of partial diferencial ecuations name, separatión of variables. 
