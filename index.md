@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: default
 title: Inicio
-author_profile: true
 ---
 
 # Hi!!!
