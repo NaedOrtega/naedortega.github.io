@@ -13,6 +13,6 @@ This problem has a solution with the metod of partial diferencial ecuations call
   <img src="/files/Griffiths_Example_3.5/animacion2d2.gif" width="400">
 </p>
 
-The animation is made in Wolfram Mathematica, you can download the code I made to animete this solution, here: <a href="/files/Griffiths_Example_3.5.nb" target="_blank">Griffiths_Example_3.5</a>
+The animation is made in Wolfram Mathematica, you can download the code I made to animete this solution, here: <a href="/files/Griffiths_Example_3.5/Griffiths_Example_3.5.nb" target="_blank">Griffiths_Example_3.5</a>
 
 
