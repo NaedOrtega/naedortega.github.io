@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Relaxation method for a Maxwell draw"
-date: 2026-04-13
+date: 2026-04-27
 ---
 
 This is the electric potencial of the silhouette of a draw of James Clerk Maxwell, by the Relaxation Method.
