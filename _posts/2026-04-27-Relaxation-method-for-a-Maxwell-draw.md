@@ -21,4 +21,4 @@ This own method make that the grid with the inicial potencial assigned, before t
   <img src="/files/RM-Maxwell/grid3d.png" width="400">
 </p>
 
-Here you can find a document of how i do the inicial assign of values of the potencials. <a href="/files/RM-Maxwell/Grid-Relaxation-Method.pdf" target="_blank">Griffiths_Example_3.5</a>
+Here you can find a document of how i do the inicial assign of values of the potencials. <a href="/files/RM-Maxwell/Grid-Relaxation-Method.pdf" target="_blank">Grid-Relaxation-Method</a>
